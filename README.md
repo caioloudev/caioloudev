@@ -1,12 +1,65 @@
-# <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Caio%20Lourenço&fontSize=80&fontAlignY=35&animation=twinkling&desc=Desenvolvedor%20Full%20Stack%20|%20Full%20Stack%20Developer&descAlignY=55&descAlign=50"/>
+# Desenvolvedor Full Stack 👋
+## HTML | CSS | JavaScript | C++ | Java | Node.js | React
+
+<div align="center">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
+</div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=8A2BE2&vCenter=true&width=600&height=70&lines=Caio+Lourenço;caioloudev;Desenvolvedor;Full+Stack!)](https://git.io/typing-svg)
+
+<div>
+  <h1 align="center">
+    Olá! Tudo bem? Seja bem-vindo! 😃️
+  </h1>
+  <p align="center">
+    Vamos codar juntos? Sua contribuição será muito bem-vinda! 😉️
+  </p>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caioloudev&show_icons=true&theme=tokyonight" style="border: 1px solid #8A2BE2; border-radius: 5px; margin: 10px;" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=caioloudev&show_icons=true&theme=tokyonight" style="border: 1px solid #8A2BE2; border-radius: 5px; margin: 10px;" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=caioloudev&show_icons=true&theme=tokyonight" style="border: 1px solid #8A2BE2; border-radius: 5px; margin: 10px;" alt="Productive Time"/>
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,git,github,vscode,nodejs,react,django,postgresql,mysql,python" alt="Tech Stack"/>
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caioloudev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<p align="center">
+  <img src="github-contribution-grid-snake.svg" alt="Snake Animation"/>
+</p>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=caioloudev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&hide_border=true" alt="Trophies"/>
+</div>
+
+## 🌟 Projetos em Destaque | Featured Projects
+
+<div align="center">
+  <a href="https://github.com/caioloudev/aatroxflappybird" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caioloudev&repo=aatroxflappybird&theme=tokyonight&show_owner=true&hide_border=true" alt="Flappy Aatrox"/>
+  </a>
+  <a href="https://github.com/Katrox-Guia" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caioloudev&repo=Katrox-Guia&theme=tokyonight&show_owner=true&hide_border=true" alt="Aatrox Guide"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+Formação;Developer+in+Progress;Always+Learning+%F0%9F%93%9A+Sempre+Aprendendo" alt="Typing SVG" />
+  <br>
+  <p align="centre"><b>Contador de Visitantes</b></p>
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/caioloudev/count.svg" alt="Visitors Count"/></p>
 </div>
 
-<br>
+<div align="center">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+</div>
 
 <div align="center">
   <a href="https://github.com/caioloudev" target="_blank" rel="noopener noreferrer">
@@ -18,87 +71,4 @@
   <a href="https://www.linkedin.com/in/caio-lourenço-05a3a1178/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</div>
-
-<br>
-
-## 📊 Estatísticas do GitHub | GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioloudev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioloudev&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=caioloudev&theme=tokyonight&hide_border=true"/>
-</div>
-
-<br>
-
-## 🛠️ Stack Tecnológica | Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,git,github,vscode,nodejs,react&perline=5" alt="Tech Stack"/>
-</div>
-
-<br>
-
-## 🏆 Conquistas | Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=caioloudev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="Trophies"/>
-</div>
-
-<br>
-
-## 🌟 Projetos em Destaque | Featured Projects
-
-<div align="center">
-  <a href="https://github.com/caioloudev/aatroxflappybird" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caioloudev&repo=aatroxflappybird&theme=tokyonight&show_owner=true" alt="Flappy Aatrox"/>
-  </a>
-  <a href="https://github.com/Katrox-Guia" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caioloudev&repo=Katrox-Guia&theme=tokyonight&show_owner=true" alt="Aatrox Guide"/>
-  </a>
-</div>
-
-<br>
-
-## 🎯 Objetivos 2025 | 2025 Goals
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <b>🇧🇷 Português</b>
-        <ul align="left">
-          <li>✨ Desenvolver um portfólio online moderno e responsivo</li>
-          <li>🚀 Concluir um projeto full-stack completo</li>
-          <li>📚 Aprofundar conhecimentos em Git e GitHub</li>
-          <li>🤝 Contribuir ativamente em projetos open-source</li>
-          <li>✅ Expandir minha presença no GitHub 💪</li>
-        </ul>
-      </td>
-      <td width="50%" align="center">
-        <b>🇺🇸 English</b>
-        <ul align="left">
-          <li>✨ Develop a modern and responsive online portfolio</li>
-          <li>🚀 Complete a full-stack project</li>
-          <li>📚 Deepen Git and GitHub knowledge</li>
-          <li>🤝 Actively contribute to open-source projects</li>
-          <li>✅ Expand my GitHub presence 💪</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=caioloudev&color=8A2BE2&style=for-the-badge" alt="Profile Views"/>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Obrigado%20por%20visitar!%20|%20Thanks%20for%20visiting!%20👋&fontSize=20&fontAlignY=35&animation=twinkling"/>
 </div>
