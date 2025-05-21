@@ -1,35 +1,35 @@
 # 👋 Olá, eu sou Fellpsks!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif+JP&weight=300&size=40&pause=1000&color=2C3E50&center=true&vCenter=true&random=false&width=600&height=100&lines=Fellpsks;Desenvolvedor+Full+Stack;Artesão+Digital" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=00ff9d&center=true&vCenter=true&random=false&width=600&height=100&lines=Fellpsks;Desenvolvedor+Full+Stack;%26+Entusiasta+de+Tecnologia" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fellpsks&color=7D6E83&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Fellpsks&color=00ff9d&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fellpsks&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&text_color=2C3E50&icon_color=7D6E83" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fellpsks&layout=compact&langs_count=7&theme=default&hide_border=true&bg_color=00000000&text_color=2C3E50" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fellpsks&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&text_color=00ff9d&icon_color=00ff9d" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fellpsks&layout=compact&langs_count=7&theme=dark&hide_border=true&bg_color=00000000&text_color=00ff9d" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fellpsks&theme=default&hide_border=true&bg_color=00000000&color=7D6E83" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fellpsks&theme=dark&hide_border=true&bg_color=00000000&color=00ff9d" alt="Contribution Graph" />
 </div>
 
 <br>
 
-## 🎨 Sobre Mim
+## 🚀 Sobre Mim
 
-> _"Simplicidade é o último grau de sofisticação."_
+> _"Inovação é a arte de transformar o impossível em realidade."_
 
-Desenvolvedor apaixonado por criar soluções elegantes e eficientes. Buscando harmonia entre código e design, transformando ideias em experiências digitais significativas.
+Desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Sempre em busca de novos desafios e conhecimentos para expandir minhas habilidades.
 
-## 🛠️ Tecnologias
+## ⚡ Tecnologias
 
 <div align="center">
   
@@ -41,22 +41,22 @@ Desenvolvedor apaixonado por criar soluções elegantes e eficientes. Buscando h
   
 </div>
 
-## 🌟 Projetos
+## 🌟 Projetos em Destaque
 
 <div align="center">
   
-  ### 🎯 Projeto 1
-  *Uma jornada de descoberta através do código, onde cada linha conta uma história.*
+  ### 🎮 Projeto 1
+  *Uma jornada através do código, onde cada linha é uma nova aventura.*
   
-  ### 🎨 Projeto 2
-  *Harmonia entre design e funcionalidade, criando experiências memoráveis.*
+  ### 🎯 Projeto 2
+  *Inovação e tecnologia se unem para criar experiências únicas.*
   
   ### ⚡ Projeto 3
-  *Inovação e simplicidade se encontram para criar algo extraordinário.*
+  *Transformando ideias em realidade através de código e criatividade.*
   
 </div>
 
-## 🤝 Conecte-se
+## 🔗 Conecte-se
 
 <div align="center">
   
@@ -69,7 +69,7 @@ Desenvolvedor apaixonado por criar soluções elegantes e eficientes. Buscando h
 
 <div align="center">
   
-  > *"O código é poesia, e cada projeto é uma nova história para contar."*
+  > *"O futuro pertence àqueles que ousam criar."*
   
 </div>
 
