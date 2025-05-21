@@ -8,7 +8,7 @@
   <a href="https://github.com/caioloudev">
     <img src="https://img.shields.io/github/followers/caioloudev?label=Followers&style=social" />
   </a>
-  <a href="mailto:caio@email.com">
+  <a href="mailto:caiolourenco75@email.com">
     <img src="https://img.shields.io/badge/Email-caio@email.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/caio-louren%C3%A7o-05a3a1178/">
