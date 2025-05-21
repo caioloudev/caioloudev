@@ -1,4 +1,4 @@
-# <div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Caio%20Lourenço&fontSize=80&fontAlignY=35&animation=twinkling&desc=Desenvolvedor%20Full%20Stack%20|%20Full%20Stack%20Developer&descAlignY=55&descAlign=50"/>
 </div>
 
