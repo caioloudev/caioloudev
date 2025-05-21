@@ -55,8 +55,8 @@
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [Projeto Exemplo](https://github.com/caioloudev/projeto1) | Breve descrição do que o projeto faz. | Java, HTML, CSS |
-| [Outro Projeto](https://github.com/caioloudev/projeto2) | Algo que você desenvolveu ou está desenvolvendo. | C++, JavaScript |
+| [Projeto Exemplo](https://github.com/caioloudev/aatroxflappybird) |  | HTML, CSS, JavaScript |
+| [Outro Projeto](https://github.com/Katrox-Guia) |  | HTML, CSS |
 
 ---
 
@@ -73,7 +73,7 @@
 ## 📫 Contato
 
 <p align="center">
-  <a href="mailto:caio@email.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:caiolourenco75@email.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/caio-louren%C3%A7o-05a3a1178/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/caioloudev"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
@@ -125,8 +125,7 @@
 
 ---
 
-<p align="center">✨ Obrigado por visitar! | Thanks for visiting! ✨</p>
-## Hi there 👋
+<p align="center">✨ Obrigado por visitar! | Thanks for visiting! 👋✨</p>
 
 <!--
 **caioloudev/caioloudev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
