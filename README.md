@@ -55,8 +55,8 @@
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [Projeto Exemplo](https://github.com/caioloudev/aatroxflappybird) |  | HTML, CSS, JavaScript |
-| [Outro Projeto](https://github.com/Katrox-Guia) |  | HTML, CSS |
+| [Flappy Aatrox](https://github.com/caioloudev/aatroxflappybird) | Flappy Aatrox | HTML, CSS, JavaScript |
+| [Aatrox Guia](https://github.com/Katrox-Guia) | Katrox-Guia | HTML, CSS |
 
 ---
 
