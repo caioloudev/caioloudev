@@ -9,13 +9,13 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/caioloudev">
+  <a href="https://github.com/caioloudev" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:caiolourenco75@email.com">
+  <a href="mailto:caiolourenco75@email.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/caio-lourenço-05a3a1178/">
+  <a href="https://www.linkedin.com/in/caio-lourenço-05a3a1178/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
@@ -54,10 +54,10 @@
 ## 🌟 Projetos em Destaque | Featured Projects
 
 <div align="center">
-  <a href="https://github.com/caioloudev/aatroxflappybird">
+  <a href="https://github.com/caioloudev/aatroxflappybird" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caioloudev&repo=aatroxflappybird&theme=tokyonight&show_owner=true" alt="Flappy Aatrox"/>
   </a>
-  <a href="https://github.com/Katrox-Guia">
+  <a href="https://github.com/Katrox-Guia" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caioloudev&repo=Katrox-Guia&theme=tokyonight&show_owner=true" alt="Aatrox Guide"/>
   </a>
 </div>
