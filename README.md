@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Felipe%20Alves&fontSize=80&fontAlignY=35&animation=twinkling&desc=Desenvolvedor%20Full%20Stack%20|%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" alt="Header Felipe Alves"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Caio%20Lourenço&fontSize=80&fontAlignY=35&animation=twinkling&desc=Desenvolvedor%20Full%20Stack%20|%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" alt="Header Caio Lourenço"/>
 </div>
 
 <div align="center">
@@ -9,13 +9,13 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/Fellpsks" target="_blank" rel="noopener noreferrer"> 
+  <a href="https://github.com/caioloudev" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:felipealvex2803@gmail.com" target="_blank" rel="noopener noreferrer"> 
+  <a href="mailto:caiolourenco75@email.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/felipexd/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/caio-lourenço-05a3a1178/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
@@ -25,12 +25,12 @@
 ## 📊 Estatísticas do GitHub | GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fellpsks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fellpsks&layout=compact&langs_count=8&theme=tokyonight" alt="Top Langs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioloudev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioloudev&layout=compact&langs_count=8&theme=tokyonight" alt="Top Langs"/>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Fellpsks&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=caioloudev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <br>
@@ -46,7 +46,7 @@
 ## 🏆 Conquistas | Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fellpsks&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=caioloudev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="Trophies"/>
 </div>
 
 <br>
@@ -54,11 +54,11 @@
 ## 🌟 Projetos em Destaque | Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Fellpsks/aatroxflappybird" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fellpsks&repo=aatroxflappybird&theme=tokyonight&show_owner=true" alt="Flappy Aatrox"/>
+  <a href="https://github.com/caioloudev/aatroxflappybird" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caioloudev&repo=aatroxflappybird&theme=tokyonight&show_owner=true" alt="Flappy Aatrox"/>
   </a>
-  <a href="https://github.com/Fellpsks/Katrox-Guia" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fellpsks&repo=Katrox-Guia&theme=tokyonight&show_owner=true" alt="Aatrox Guide"/>
+  <a href="https://github.com/caioloudev/Katrox-Guia" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caioloudev&repo=Katrox-Guia&theme=tokyonight&show_owner=true" alt="Aatrox Guide"/>
   </a>
 </div>
 
@@ -73,7 +73,7 @@
         <b>🇧🇷 Português</b>
         <ul align="left">
           <li>✨ Desenvolver um portfólio online moderno e responsivo</li>
-          <li>🚀 Concluir um projeto full-stack</li>
+          <li>🚀 Concluir um projeto full-stack completo</li>
           <li>📚 Aprofundar conhecimentos em Git e GitHub</li>
           <li>🤝 Contribuir ativamente em projetos open-source</li>
           <li>✅ Expandir minha presença no GitHub 💪</li>
@@ -96,7 +96,7 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fellpsks&color=8A2BE2&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=caioloudev&color=8A2BE2&style=for-the-badge" alt="Profile Views"/>
 </div>
 
 <div align="center">
