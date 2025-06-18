@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Caio%20Lourenço&fontSize=80&fontAlignY=35&animation=twinkling&desc=Desenvolvedor%20Full%20Stack%20|%20Full%20Stack%20Developer&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Caio%20Lourenço&fontSize=80&fontAlignY=35&animation=twinkling&desc=Desenvolvedor%20Full%20Stack%20|%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" alt="Header Caio Lourenço"/>
 </div>
 
 <div align="center">
@@ -25,12 +25,12 @@
 ## 📊 Estatísticas do GitHub | GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioloudev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioloudev&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioloudev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioloudev&layout=compact&langs_count=8&theme=tokyonight" alt="Top Langs"/>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=caioloudev&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=caioloudev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <br>
@@ -57,7 +57,7 @@
   <a href="https://github.com/caioloudev/aatroxflappybird" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caioloudev&repo=aatroxflappybird&theme=tokyonight&show_owner=true" alt="Flappy Aatrox"/>
   </a>
-  <a href="https://github.com/Katrox-Guia" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/caioloudev/Katrox-Guia" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caioloudev&repo=Katrox-Guia&theme=tokyonight&show_owner=true" alt="Aatrox Guide"/>
   </a>
 </div>
@@ -100,5 +100,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Obrigado%20por%20visitar!%20|%20Thanks%20for%20visiting!%20👋&fontSize=20&fontAlignY=35&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Obrigado%20por%20visitar!%20|%20Thanks%20for%20visiting!%20👋&fontSize=20&fontAlignY=35&animation=twinkling" alt="Footer"/>
 </div>
